@@ -12,22 +12,6 @@ h1 {
     color: aliceblue;
     text-align: center;
 }
-p {
-    padding-top: 1%;
-    padding-bottom: 0%;
-    padding-left: 0%;
-    font-family: 'Arial';
-    font-size: 11pt;
-    font-weight: none;
-}
-h2 {
-    padding-top: 0%;
-    padding-bottom: 0%;
-    padding-left: 2%;
-    font-family: 'Aptos';
-    font-size: 20pt;
-    font-weight: lighter;
-}
 h3 {
     padding-top: 0%;
     padding-bottom: 0%;
@@ -44,9 +28,17 @@ pre {
     font-size: 11pt;
     font-weight: none;
 }
-.negrita {
+.TituloCanción {
     padding-top: 0%;
-    padding-left: 2%;
+    padding-left: 0%;
     font-size: 12pt;
     font-weight: bolder;
+}
+.saltos{
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-left: 0.5%;
+    font-family: 'Arial';
+    font-size: 17pt;
+    font-weight: lighter;
 }
